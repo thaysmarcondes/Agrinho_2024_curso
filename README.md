@@ -821,9 +821,21 @@ comecaCronometro();
 como e mostrado abaixo: 
 ![JS](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/9e9259a7-a523-4502-896a-75a767277566)
 
+
 ## Chegamos ao fim do nosso site agora para que as modificações fique salvas temos que commitar ou seja confirmar as alterações, pois iremos publicar esse site no GitHub Pages e na Vercel.
 
-### Para isso vamos ajustar nosso repositorio de acordo com as rubricas do concurso.
+#### Comitando projeto, procure por esse icone no lado direito do seu explorador Vs Code e clique nele.
+![comit1](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/e8a9fe44-02ac-4c2e-9467-4857f72efb09)
+
+#### Agora escreva uma mensagem que se refere as modificações feitas no codigo, toda vez que fizer modificações tem que repetir esse processo para que fique salvo.
+![comit2msg](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/a9adc639-207a-426a-a47b-458784064f9e)
+#### Depois de descrever o que foi modificado aperte em Commit & Push ( Em alguns casos pede para sincronizar pode permitir )
+![commit botão](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/dffef7ff-2a76-4a63-9bd1-22ba83faabec)
+
+#### Por fim ficara assim sem números no icone de Commit e o Botão fica sem função isso quer dizer que ja foi salvo as modificações.![comit finish](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/37e1694f-9d7f-4ff8-b310-ee84ad92e427)
+
+### Vamos ajustar nosso repositorio de acordo com as rubricas do concurso.
+
 
 #### Vamos publicar nosso site no GitHub Pages seguindo os seguintes passos, clique na engrenagem que esta escrito Settings.
 ![setings](https://github.com/professorrichardson/agrinho-ceaa/assets/125823124/99647d1f-1547-4541-a078-5340283fb568)
