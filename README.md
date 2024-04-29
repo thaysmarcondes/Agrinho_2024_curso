@@ -1,5 +1,5 @@
 #  **Agrinho: do campo à cidade, colhendo oportunidades**.
-# Formação Matematica II, NRE Ivaiporã,  NRE Apucarana
+# Formação Matematica II, NRE Ivaiporã, Guarapuava e Pato Branco.
 ## [Clique aqui para ver o site de exemplo](https://professorrichardson.github.io/Agrinho-2024-formacao/)
 # `Parabéns por ter chegado até aqui, agora vamos programar nosso site. `
 
@@ -247,7 +247,10 @@ Por fim o nosso Rodapé contendo alguns links colocar abaixo da seção relógio
 			<a href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53">NRE IVAIPORÃ</a>
 		</li>
 		<li  class="lista__link">
-			<a  href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=39">NRE APUCARANA</a>
+			<a  href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=50">NRE GUARAPUAVA</a>
+		</li>
+		<li  class="lista__link">
+			<a  href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61">NRE PATO BRANCO</a>
 		</li>
 	</ul>
 	<p  class="rodape__texto">Site modelo Agrinho 2024</p>
