@@ -230,33 +230,39 @@ Estamos quase lá essa seção e bem interessante, pois usaremos um trecho de c�
 Por fim o nosso Rodapé contendo alguns links colocar abaixo da seção relógio e antes do `</body>`
 
 ~~~HTML
-<!--rodapé -->
-<footer  class="rodape">
-	<img  src="img/logo.png"  alt="ceaa"  class="rodape__logo" />
-	<ul  class="rodape__lista">
-		<li  class="lista__link">
-			<a  href="https://www.sistemafaep.org.br/agrinho/">AGRINHO 2024</a>
-		</li>
-		<li  class="lista__link">
-			<a  href="https://www.instagram.com/sistema.faep/">FAEP</a>
-		</li>
-		<li  class="lista__link">
-			<a  href="https://www.instagram.com/sistema.faep/">SENAR</a>
-		</li>
-		<li  class="lista__link">
-			<a href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53">NRE IVAIPORÃ</a>
-		</li>
-		<li  class="lista__link">
-			<a  href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=50">NRE GUARAPUAVA</a>
-		</li>
-		<li  class="lista__link">
-			<a  href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61">NRE PATO BRANCO</a>
-		</li>
-	</ul>
-	<p  class="rodape__texto">Site modelo Agrinho 2024</p>
-	<p  class="rodape__texto">® 2024 -NRE IVAIPORÃ</p>
-</footer>
-<!-- fim rodapé-->
+<!--rodapé  -->  
+    <footer class="rodape">
+      <img src="img/logo.png" alt="ceaa" class="rodape__logo" />
+      <ul class="rodape__lista">
+        <li class="lista__link">
+          <a href="https://www.sistemafaep.org.br/agrinho/">AGRINHO 2024</a>
+        </li>
+        <li class="lista__link">
+          <a href="https://www.instagram.com/sistema.faep/">SENAR</a>
+        </li>
+        <li class="lista__link">
+          <a
+            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53"
+            >NRE IVAIPORÃ</a
+          >
+        </li>
+        <li  class="lista__link">
+          <a  
+            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=50"
+            >NRE GUARAPUAVA
+          </a>
+        </li>
+        <li  class="lista__link">
+          <a  
+            href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=61"
+            >NRE PATO BRANCO
+          </a>
+        </li>
+      </ul>
+      <p class="rodape__texto">Site modelo Agrinho 2024</p>
+      <p class="rodape__texto">® 2024 -NRE IVAIPORÃ</p>
+    </footer>
+    <!-- fim rodapé-->
 ~~~
 
 # Ufa 😌 Terminamos o arquivo index.html como sera que está ficando ?
