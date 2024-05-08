@@ -883,7 +883,7 @@ como e mostrado abaixo:
 
 # `Professor: Richardson Schawarski` 
 
-## Agradecimentos aos NRE´s de Ivaiporã e Apucarana.
+## Agradecimentos aos NRE´s Ivaiporã, Guarapuava e Pato Branco..
 
 ### 👏👏👏 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
 
