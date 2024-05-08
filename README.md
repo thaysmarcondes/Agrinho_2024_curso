@@ -9,23 +9,33 @@
  1. Vamos instalar essas extensões abaixo no nosso Vs Code.
 
 ![brackets](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/641bfedc-9551-4e33-a1c8-d83f3b43abeb)
+
 ![color tag](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/f3c7a133-8d37-45b2-91d7-d02776b150f0)
+
 ![colorize](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/e75d6102-1ce1-4f21-bb40-38156601f268)
+
 ![live server](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/70067f00-7c0f-4633-80e8-65fcc66f1640)
+
 ![rename tag](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/012c113e-0fc4-44fa-9a2f-a73858017eb0)
+
 
 ### Agora vamos configurar ele para ter a aparência DARK que irá facilitar ver as cores das TAGS HTML, mas se você preferir continuar com o tema LIGHT que é o padrão pode pular essa parte.
 > Clique na engrenagem no canto inferior esquerdo depois em temas -> tema de Cores.
+> 
 ![config](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/d7c5e51a-44ad-4029-9209-2e73f36332f5)
 
 >Abrirá essa tela, escolha GitHub Dark.
+>
 ![dark](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/2ed377e5-00b7-4ab2-9010-6343c6f1af17)
 
 ## Ao final estará dessa forma
+
 ![vscode](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/f1816526-f171-40f3-8848-6a2951b3497f)
 
 # No seu navegador de preferencia Google Chrome instale essa estenção 
+
 ![ex](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/5ceda614-5c7d-47cd-9fa6-e5465f582d03)
+
 
 [Link da extensão](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=pt-BR)
 
