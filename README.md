@@ -210,7 +210,7 @@ Estamos quase lá essa seção e bem interessante, pois usaremos um trecho de c�
 <!--quinta seção Relogio clima -->
 <section  class="container relogio">
 	<div  class="aba-conteudo ativo">
-		<h3  class="aba-conteudo-titulo-principal">Relogio do clima</h3>
+		<h3  class="aba-conteudo-titulo-principal">Relógio do clima</h3>
 		<h4  class="aba-conteudo-titulo-secundario">Tempo restante para limitar o aquecimento global</h4>
 		<div  class="contador">
 			<div  class="contador-digito">
@@ -695,7 +695,7 @@ Todas estilizações feitas nessa parte terá efeito quando a resolução da tel
 	}
 }
 ~~~
-#### ficará assim nossa versão para celular (OBS. novamente sem o relogio funcionando falta o Java script):
+#### ficará assim nossa versão para celular (OBS. novamente sem o relógio funcionando falta o Java script):
 
 ![mobile](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/cf7e5763-0359-4844-98e0-a8822f516258)
 
@@ -786,11 +786,11 @@ Todas estilizações feitas nessa parte terá efeito quando a resolução da tel
 	}
 }
 ~~~
-####  Nossa versão para Tablet (OBS. novamente sem o relogio funcionando falta o Java script):
+####  Nossa versão para Tablet (OBS. novamente sem o relógio funcionando falta o Java script):
 
 ![tablet](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/0451cbf0-1b96-406c-b7d5-cdc1ae48fcf9)
 
-# Nessa etapa já finalizamos a parte responsiva do site e todas suas funções de estilo e ajuste estão funcionando falta somente nosso relogio funcionar.
+# Nessa etapa já finalizamos a parte responsiva do site e todas suas funções de estilo e ajuste estão funcionando falta somente nosso relógio funcionar.
 
 ## para resolvermos isso vamos agora no arquivo `main.js` lembrando que fizemos uma adaptação no codigo do alura irei explicar abaixo.
 
@@ -844,7 +844,7 @@ function  comecaCronometro() {
 comecaCronometro();
 ~~~
 
-### Se acaso mesmo assim o relogio não iniciar ficar somente com os numeros `7 7 7 7`, verifique se voce adicionou a tag que referencia o arquivo `main.js` lá no fim do HTML dentro do `index.html`.
+### Se acaso mesmo assim o relógio não iniciar ficar somente com os numeros `7 7 7 7`, verifique se voce adicionou a tag que referencia o arquivo `main.js` lá no fim do HTML dentro do `index.html`.
 como e mostrado abaixo: 
 
 ![JS](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/9e9259a7-a523-4502-896a-75a767277566)
