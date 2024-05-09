@@ -859,7 +859,7 @@ como e mostrado abaixo:
 
 ## Chegamos ao fim do nosso site agora para que as modificações fique salvas temos que commitar ou seja confirmar as alterações, pois iremos publicar esse site no GitHub Pages e na Vercel.
 
-#### Comitando projeto, procure por esse icone no lado direito do seu explorador Vs Code e clique nele.
+## (Primeira opção) Comitando projeto, procure por esse icone no lado direito do seu explorador Vs Code.dev e clique nele.
 
 ![comit1](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/e8a9fe44-02ac-4c2e-9467-4857f72efb09)
 
@@ -871,9 +871,22 @@ como e mostrado abaixo:
 
 ![commit botão](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/dffef7ff-2a76-4a63-9bd1-22ba83faabec)
 
-#### Por fim ficara assim sem números no icone de Commit e o Botão fica sem função isso quer dizer que ja foi salvo as modificações.![comit finish](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/37e1694f-9d7f-4ff8-b310-ee84ad92e427)
+#### Se ficar assim sem números no icone de Commit e o Botão fica sem função isso quer dizer que ja foi salvo as modificações.![comit finish](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/37e1694f-9d7f-4ff8-b310-ee84ad92e427)
 
-### Vamos ajustar nosso repositorio de acordo com as rubricas do concurso.
+## (Segunda opção) se você estiver usando o codspace faça desse modo.
+![commit](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/a91ba694-1bf9-4a1f-9d6d-2c55608d16cf)
+
+## Os arquivos serão enviados para um stage isso quer dizer que ainda não foi enviado para o GitHub está aguardando a confirmação pode clicar em (YES).
+![commi2t](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/d550ef84-b30e-4721-bf20-7afe3f5c6b49)
+
+## Agora o botão está escrito (Sync ) se estiver terminado todas as alterações do site pode clicar para que assim seja aplicada as modificações no GitHub.
+![commi3t](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/0a94a2d3-b689-4e36-952f-6c6466b0a3d6)
+
+## Novamente irá pedir se quer confirmar a ação de envio pode clicar em (OK).
+![commi4t](https://github.com/professorrichardson/Agrinho-2024-formacao/assets/125823124/7fcde309-71f9-493d-9388-373158024523)
+
+
+### Agora vamos ajustar nosso repositorio de acordo com as rubricas do concurso.
 
 
 #### Vamos publicar nosso site no GitHub Pages seguindo os seguintes passos, clique na engrenagem que esta escrito Settings.
